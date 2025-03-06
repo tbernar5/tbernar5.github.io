@@ -1,2 +1,5 @@
 Title: tbernar5's website
-theme: jekyll-theme-minimal
+theme: minima
+header_pages:
+- index.md
+- about.md
